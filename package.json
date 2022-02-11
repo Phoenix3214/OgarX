@@ -4,8 +4,7 @@
   "description": "Yeah it's OGAR 69\r Nothing really works yet...",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node build.js"
+    "start": "node static"
   },
   "repository": {
     "type": "git",
